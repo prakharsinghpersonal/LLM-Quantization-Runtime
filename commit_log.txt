@@ -1,0 +1,1 @@
+- Commit 2 (Custom CUDA Kernels): Write custom CUDA kernels for basic matrix multiplication (GEMM) optimized for GPU memory hierarchy.
