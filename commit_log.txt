@@ -1,2 +1,3 @@
 - Commit 2 (Custom CUDA Kernels): Write custom CUDA kernels for basic matrix multiplication (GEMM) optimized for GPU memory hierarchy.
 - Commit 3 (INT8 Quantization): Implement the C++ logic to quantize FP16/FP32 weights into INT8, and write the corresponding de-quantization/INT8 CUDA kernels.
+- Commit 4 (Throughput Optimization): Benchmark the runtime, measuring the memory footprint reduction (target 50%) and throughput elevation (target 30%).
