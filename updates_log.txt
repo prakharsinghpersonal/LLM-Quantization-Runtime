@@ -1,1 +1,2 @@
 - Upgrade the LLM-Quantization-Runtime by translating the custom CUDA inference kernels into Triton to profile and compare memory bottlenecks and latency optimizations across different GPU hardware configurations.
+- Enhance the repository by establishing a strict open-source contribution guideline (CONTRIBUTING.md). Implement automated C++ code formatting using clang-format and Python linting via ruff within the CI pipeline to simulate the rigorous code review and styling standards maintained by the Quansight engineering team.
