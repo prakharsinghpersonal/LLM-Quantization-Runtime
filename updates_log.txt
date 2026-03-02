@@ -1,0 +1,1 @@
+- Upgrade the LLM-Quantization-Runtime by translating the custom CUDA inference kernels into Triton to profile and compare memory bottlenecks and latency optimizations across different GPU hardware configurations.
